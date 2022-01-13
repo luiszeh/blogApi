@@ -37,7 +37,7 @@ Foi desenvolvido uma aplicação em `Node.js` usando o pacote `sequelize` para f
 
 Para fazer um post é necessário usuário e login, portanto será trabalhada a **relação entre** `user` e `post`. Também será necessário a utlização de categorias para seus posts, assim trabalhando a relação de `posts` para `categorias` e de `categorias` para `posts`.
  
-### ANTES DE COMEÇAR A DESENVOLVER:
+### Para rodar o projeto:
 
 1. Clone o repositório
   * `git clone git@github.com:luiszeh/blogApi.git`.
